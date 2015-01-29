@@ -4,7 +4,7 @@
 
 Designer News is a large, global community of people working in design and technology or those interested in the topics. Our definition of “designer-friendly content” is very broad and we let the community decide, by voting on stories, whether content is of interest. However, content that is clearly unrelated or purely spam may be deleted.
 
-Design News began as an invitation-only community and was largely self-regulated. The general rules remain the same since DN was first launched: be nice, be thoughtful, and post good stuff. However, factors such as opening up the registration process and the surging growth in the number of users and traffic require us to be a bit more specific in the Community Guidelines.
+Designer News began as an invitation-only community and was largely self-regulated. The general rules remain the same since DN was first launched: be nice, be thoughtful, and post good stuff. However, factors such as opening up the registration process, the surging number of users, and traffic require us to be a bit more specific in the Community Guidelines.
 
 Please remember that these are guidelines only. Specific user activity may be governed as much by the spirit of these guidelines as any specific rule.
 
