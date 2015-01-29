@@ -1,4 +1,4 @@
-# dn_guidelines
+# Designer News Guidelines
 
 This is the repo for the [Designer News community guidelines](https://news.layervault.com/about). 
 
