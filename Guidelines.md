@@ -1,4 +1,6 @@
-## Community Guidelines
+# Community Guidelines
+
+### About the Community
 
 Designer News is a large, global community of people working in design and technology or those interested in the topics. Our definition of “designer-friendly content” is very broad and we let the community decide, by voting on stories, whether content is of interest. However, content that is clearly unrelated or purely spam may be deleted.
 
@@ -12,17 +14,17 @@ New accounts will be able to leave comments immediately but will only gain full 
 
 URLs are not permitted. Users that post a url as part of their name or business title will be banned.
 
-## Be Nice
+### Be Nice
 
 - Personal insults are not acceptable.
 - Critiques happen. Be respectful and act professionally.
 - Disagreements happen. Don't take things personally. Respond to comments respectfully or ignore them.
 
-## Be Thoughtful
+### Be Thoughtful
 
 You can show your support for a commenter or submitter by upvoting. Make your comments thoughtful.
 
-## Inappropriate Activity
+### Inappropriate Activity
 
 The following is the type of activity that is subject to moderation by DN:
 
@@ -33,7 +35,7 @@ The following is the type of activity that is subject to moderation by DN:
 - Using the front page for job postings (use the Job Board instead).
 - Any attempt to game the story rankings algorithm.
 
-## Unacceptable content
+### Unacceptable content
 
 - Spam
 - "Who wants an invite to..." threads.
@@ -41,17 +43,17 @@ The following is the type of activity that is subject to moderation by DN:
 - Threads asking for new features (please use the link in the footer instead so as not to clog the Board).
 - Offensive or demeaning posts or comments or material that is NSFW. Before you comment, ask yourself if you would say the same thing to the person’s face.
 
-## Acceptable content
+### Acceptable content
 
 - Self-promotion is acceptable; however, see the prohibition against voting rings
 - Links to portfolios and nicely designed sites/services are welcome. Consider using the "Site Design:" label if appropriate.
 - Answering blog posts with blog posts is fine by us.
 
-## Flagging content
+### Flagging content
 
 To report spam or other offensive or inappropriate content, please email us at news@layervault.com.
 
-## Moderation
+### Moderation
 
 There are different levels of moderation, some manual and others automated. If a post or comment violates the letter or spirit of these guidelines, the following may occur:
 
@@ -60,14 +62,7 @@ There are different levels of moderation, some manual and others automated. If a
 - A Member’s account may be suspended for posting spam or unacceptable content, posting anonymously, or multiple violations of the voting ring rule.
 - An account may be banned or deleted entirely if it is clearly a spam account or is involved in significant violations of community guidelines. Multiple accounts and dummy accounts may also be deleted.
 
-## Guidelines will evolve
+### Guidelines will evolve
 
 To maintain a great community, members are expected to adhere to the spirit as well as the letter of the Community Guidelines. Also, these guidelines will evolve over time as issues arise. The community is welcome to voice opinions and suggest changes on the [Designer News Guidelines GitHub repo.](https://layervault.com/news/news-guidelines)
-
-
-
-
-
-
-
 
