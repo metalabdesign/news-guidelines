@@ -64,5 +64,5 @@ There are different levels of moderation, some manual and others automated. If a
 
 ### Guidelines will evolve
 
-To maintain a great community, members are expected to adhere to the spirit as well as the letter of the Community Guidelines. Also, these guidelines will evolve over time as issues arise. The community is welcome to voice opinions and suggest changes on the [Designer News Guidelines GitHub repo.](https://layervault.com/news/news-guidelines)
+To maintain a great community, members are expected to adhere to the spirit as well as the letter of the Community Guidelines. Also, these guidelines will evolve over time as issues arise. The community is welcome to voice opinions and suggest changes on the [Designer News Guidelines GitHub repo.](https://github.com/layervault/news-guidelines)
 
