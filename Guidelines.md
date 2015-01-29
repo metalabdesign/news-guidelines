@@ -10,7 +10,7 @@ Please remember that these are guidelines only. Specific user activity may be go
 
 ### New Members
 
-New accounts will be able to leave comments immediately but will only gain full permissions over a week. To keep the quality of discussions high, members are expected to register under their real names. Both new and existing members are subject to random verification to weed out anonymous accounts and anonymous accounts will be banned. In the future, we may go to another system to verify members’ identities.
+New accounts will be able to leave comments immediately but will only gain full permissions over a week. To keep the quality of discussions high, members are expected to register under their real names. Both new and existing members are subject to random verification to weed out anonymous accounts. Anonymous accounts will be banned. In the future, we may go to another system to verify members’ identities.
 
 URLs are not permitted. Users that post a url as part of their name or business title will be banned.
 
